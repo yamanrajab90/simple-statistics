@@ -9,4 +9,5 @@
 
 <img width="331" alt="Artboard 1 copy@2x" src="https://github.com/yamanrajab90/simple-statistics/assets/102862314/5478e17c-937b-4d52-87ff-108f1a86552d">
 
-![Logo](https://github.com/yamanrajab90/simple-statistics/assets/102862314/72c50fc9-f545-40eb-9c33-9757a37471c5)
+
+![Logo](https://github.com/yamanrajab90/simple-statistics/assets/102862314/24c25d38-1990-4df2-bc08-67abfb60e383)
