@@ -1,6 +1,8 @@
 
 ![Final Logo](https://github.com/yamanrajab90/simple-statistics/assets/102862314/60402ba4-a838-4542-852f-ae6d4b172346)
-![logo + line](https://github.com/yamanrajab90/simple-statistics/assets/102862314/25700484-cecf-4ee2-bd70-d969d81fa0b0)
+
+![logo + line resized](https://github.com/yamanrajab90/simple-statistics/assets/102862314/fa4e0f40-9b6a-4bf6-a870-b805829f6347)
+
 
 
 
