@@ -1,5 +1,7 @@
 
 ![Final Logo](https://github.com/yamanrajab90/simple-statistics/assets/102862314/60402ba4-a838-4542-852f-ae6d4b172346)
+![logo + line](https://github.com/yamanrajab90/simple-statistics/assets/102862314/25700484-cecf-4ee2-bd70-d969d81fa0b0)
+
 
 
 
@@ -9,6 +11,6 @@
 
 <img width="331" alt="Artboard 1 copy@2x" src="https://github.com/yamanrajab90/simple-statistics/assets/102862314/5478e17c-937b-4d52-87ff-108f1a86552d">
 
-![logo + line](https://github.com/yamanrajab90/simple-statistics/assets/102862314/6a501dfd-68b2-41f6-946c-4bda7b0d0532)
+
 
 ![Logo](https://github.com/yamanrajab90/simple-statistics/assets/102862314/24c25d38-1990-4df2-bc08-67abfb60e383)
